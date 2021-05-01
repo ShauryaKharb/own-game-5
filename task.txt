@@ -1,0 +1,4 @@
+task 1 : pen fight with teacher {DONE}
+task 2 : make coins {DONE}
+task 3 : make car racing game and throw paper at teacher game {DONE}
+task 4 : make dilogues
